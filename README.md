@@ -16,11 +16,11 @@ In the course of this project I performed the following analysis
  - Explore distributions and correlations among variables
 
 #### [Linear Regression]()
- - Linear Regression (OLS)
  - Feature Selection using SelectKBest
+ - Linear Regression (OLS)
  - Assumption Testing w/ Visualizations (Linearity, Normality, Multicollinearity, Homoscadasticity)
  - Checking for Influential Points (Cooks Distance)
- - Lasso and Ridge Regression
+ - Lasso, Ridge, and ElasticNet Regression
 
 #### [Alternative Analysis](https://github.com/uscgregory/Regression/blob/main/Regression%20-%20Alternative%20Models.ipynb)
  - Decision Tree Regressor 

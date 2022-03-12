@@ -22,10 +22,8 @@ In the course of this project I performed the following analysis
  - Checking for Influential Points (Cooks Distance)
  - Lasso and Ridge Regression
 
-#### [Alternative Analysis]()
+#### [Alternative Analysis](https://github.com/uscgregory/Regression/blob/main/Regression%20-%20Alternative%20Models.ipynb)
  - Decision Tree Regressor 
  - Random Forest Regressor 
  - Support Vector Machine Regression
- - MLP Regressor
- - ElasticNet Regression
  - Gradiant Boosting Regression

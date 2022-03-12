@@ -7,4 +7,25 @@ Please review the final results of my analysis by viewing the [Regression Result
 In the course of this project I performed the following analysis
 
 #### [Data Cleaning]()
- - asd
+ - Identify and treat missing data (Imputation and Deleting)
+ - Identify and treat incorrect/erroneous data
+ - Explore relationships between Independent and Dependent variables
+ - Treat non-linear relationships (Transformation, Deletion)
+
+#### [Data Exploration]()
+ - Explore distributions and correlations among variables
+
+#### [Linear Regression]()
+ - Linear Regression (OLS)
+ - Feature Selection using SelectKBest
+ - Assumption Testing w/ Visualizations (Linearity, Normality, Multicollinearity, Homoscadasticity)
+ - Checking for Influential Points (Cooks Distance)
+ - Lasso and Ridge Regression
+
+#### [Alternative Analysis]()
+ - Decision Tree Regressor 
+ - Random Forest Regressor 
+ - Support Vector Machine Regression
+ - MLP Regressor
+ - ElasticNet Regression
+ - Gradiant Boosting Regression

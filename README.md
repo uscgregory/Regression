@@ -12,7 +12,7 @@ In the course of this project I performed the following analysis
  - Explore relationships between Independent and Dependent variables
  - Treat non-linear relationships (Transformation, Deletion)
 
-#### [Data Exploration]()
+#### [Data Exploration](https://github.com/uscgregory/Regression/blob/main/Regression%20-%20Data%20Exploration.ipynb)
  - Explore distributions and correlations among variables
 
 #### [Linear Regression]()
